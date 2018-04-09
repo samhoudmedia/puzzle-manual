@@ -16,9 +16,25 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'A-Frame boilerplate',
-      template: `${PATHS.app}/index.html`
-    })
+      title: 'Index',
+      template: `${PATHS.app}/room-1.html`,
+      filename: `room-1.html`
+    }),
+    new HtmlWebpackPlugin({
+      title: 'Index',
+      template: `${PATHS.app}/room-2.html`,
+      filename: `room-2.html`
+    }),
+    new HtmlWebpackPlugin({
+      title: 'Index',
+      template: `${PATHS.app}/room-3.html`,
+      filename: `room-3.html`
+    }),
+    new HtmlWebpackPlugin({
+      title: 'Index',
+      template: `${PATHS.app}/room-4.html`,
+      filename: `room-4.html`
+    }),
   ],
   devServer: {
     overlay: {
