@@ -1,8 +1,8 @@
-# The Manual Puzzle
-📔 The Manual Puzzle 
+# Manual Puzzle Prototypes
+>📔 Different versions for the manual puzzle.
 
 ## 📖 Introduction
-First Manual puzzle
+Different version prototypes for the manual puzzle.
 
 ## ⚙ Installation & Development
 ### Tech Stack
