@@ -2,7 +2,7 @@
 >📔 Different versions for the manual puzzle.
 
 ## 📖 Introduction
-Different version prototypes for the manual puzzle.
+Trying out multiple directions and versions for the manual puzzle to see which onne is the best fit. They all have the same puzzle base but with slightly different forms of interaction.
 
 ## ⚙ Installation & Development
 ### Tech Stack
