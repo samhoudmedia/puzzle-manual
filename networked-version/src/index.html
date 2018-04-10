@@ -11,7 +11,7 @@
   <script src="https://unpkg.com/networked-aframe/dist/networked-aframe.min.js"></script>
 </head>
 <body>
-  <a-scene networked-scene>
+  <a-scene networked-scene="debug: true; serverURL: https://haydenlee.io">
     ${require('./objects/env.html')}
     ${require('./objects/networked.html')}
   </a-scene>
